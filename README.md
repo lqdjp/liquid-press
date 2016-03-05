@@ -1,5 +1,5 @@
 # liquid-press
-Responsive WordPress Theme
+レスポンシブWordPressテーマ  
 https://lqd.jp/wp/
 
 ## issues
