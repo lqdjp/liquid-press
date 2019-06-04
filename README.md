@@ -9,6 +9,5 @@
 * 各issueにはテーマ名のラベルが付いています。Allは全テーマ共通の機能です。
 * Openは開発中、Closedは開発済のタスクです。
 * 全てが実装されるとは限りませんので予めご了承ください。
-* https://github.com/lqdjp/liquid-press/issues
 
 開発状況の通知を受け取るには`Watch`してください。
