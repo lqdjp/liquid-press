@@ -1,5 +1,6 @@
 # liquid-press
 * 日本語対応レスポンシブWordPressテーマ
+* WordPress公式有料サポートテーマ
 * https://lqd.jp/wp/
 
 ## issues
@@ -9,3 +10,5 @@
 * Openは開発中、Closedは開発済のタスクです。
 * 全てが実装されるとは限りませんので予めご了承ください。
 * https://github.com/lqdjp/liquid-press/issues
+
+開発状況の通知を受け取るには`Watch`してください。
