@@ -10,4 +10,8 @@
 * Openは開発中、Closedは開発済のタスクです。
 * 全てが実装されるとは限りませんので予めご了承ください。
 
+## 開発テスト用
+* TOP（モバイル）：https://lqdjp.github.io/liquid-press-dev/demo.html
+* 記事ページ（モバイル）：https://lqdjp.github.io/liquid-press-dev/demo-post.html
+
 開発状況の通知を受け取るには`Watch`してください。
