@@ -1,7 +1,5 @@
-# liquid-press
-* 日本語対応レスポンシブWordPressテーマ
-* WordPress公式有料サポートテーマ
-* https://lqd.jp/wp/
+# WordPress公式有料テーマ
+* [LIQUID PRESS](https://lqd.jp/wp/)
 
 ## issues
 * 開発中または検討中の機能はissuesに登録されています。
