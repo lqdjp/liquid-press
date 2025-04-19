@@ -1,4 +1,4 @@
-# WordPress公式有料テーマ
+# WordPress公式"有料サポート付きGPLテーマ"登録テーマ
 * [LIQUID PRESS](https://lqd.jp/wp/)
 
 ## issues
